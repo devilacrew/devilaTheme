@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1da30db2-fd7d-4bb2-b8b7-515c2e0840da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-midnight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/jekyll-theme-midnight.scss" afterDir="false" />
-    </list>
+    <list default="true" id="1da30db2-fd7d-4bb2-b8b7-515c2e0840da" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <workItem from="1675197213147" duration="6030000" />
       <workItem from="1675203591421" duration="2192000" />
       <workItem from="1675433345532" duration="2348000" />
-      <workItem from="1675710073380" duration="2686000" />
+      <workItem from="1675710073380" duration="3415000" />
     </task>
     <servers />
   </component>
