@@ -71,8 +71,8 @@ strong {
 }
 
 .wrapper {
-  max-width:650px;
-  margin:0 auto;
+  max-width:800px;
+  margin:220px auto;
   position:relative;
   padding: 0 20px;
 }
@@ -147,10 +147,7 @@ dt {
   font-weight: normal;
 }
 
-.top-container {
-  margin: 0 auto;
-  max-width: 890px;
-}
+
 
 #header {
   z-index: 100;
@@ -161,61 +158,57 @@ dt {
   border-bottom: 4px solid #434343;
   box-shadow: 0 1px 3px rgba(0,0,0,.25);
 
+  .top-container {
+    margin: 0 auto;
+    max-width: 890px;
+    display: flex;
+    align-items: flex-end;
 
-  .marca-de-agua {
-    width: 202px;
-    height: 162px;
-    object-fit: cover;
-  }
+    .marca-de-agua {
+      object-fit: cover;
+      align-self: flex-start;
 
-  nav {
-    padding: 0 10px;
-    background: black;
+      img {
+        width: 202px;
+        height: 162px;
+      }
+    }
 
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
 
-      li {
-        font-family: Impact, sans-serif;
-        font-style: italic;
-        font-weight: bold;
-        list-style: none;
-        display: inline;
-        color: #ffc800;
-        line-height: 50px;
-        text-shadow: 0 1px 0 rgba(0,0,0,.2);
+    nav {
+      padding: 0 10px;
+      background: black;
 
-        a {
-          color: #ff0000;
-          background: black;
-          padding: 10px 12px;
-          margin-top: 6px;
-          line-height:14px;
-          font-size:30px;
-          display:inline-block;
-          text-align:center;
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
 
-          &:hover {
-            background: #00ffd8;
+        li {
+          font-family: Impact, sans-serif;
+          font-style: italic;
+          font-weight: bold;
+          list-style: none;
+          display: inline;
+          color: #ffc800;
+          line-height: 50px;
+          text-shadow: 0 1px 0 rgba(0, 0, 0, .2);
+
+          a {
+            color: #ff0000;
+            background: black;
+            padding: 10px 12px;
+            margin-top: 6px;
+            line-height: 14px;
+            font-size: 30px;
+            display: inline-block;
+            text-align: center;
+            transition: 0.3s;
+
+            &:hover {
+              background: #00ffd8;
+            }
           }
-        }
-
-        &.fork {
-          float: left;
-          margin-left: 0;
-        }
-
-        &.downloads {
-          float: right;
-          margin-left: 6px;
-        }
-
-        &.title {
-          float: right;
-          margin-right: 10px;
-          font-size: 11px;
         }
       }
     }
@@ -223,7 +216,7 @@ dt {
 }
 
 section {
-  max-width:650px;
+  max-width:800px;
   padding: 30px 0 50px 0;
   margin: 70px 0 20px;
 
