@@ -11,6 +11,14 @@
             <hr>
             {{ content }}
 
+            <ul>
+                {% for post in site.danceForYourRights %}
+                <li>
+                    <a href="{{ post.title }}">{{ post.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+
             <span class="credits left">maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
         </div>
 

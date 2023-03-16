@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1da30db2-fd7d-4bb2-b8b7-515c2e0840da" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/water-mark.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/water-mark.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-midnight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/jekyll-theme-midnight.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,7 @@
       <workItem from="1677571714792" duration="599000" />
       <workItem from="1677744773151" duration="599000" />
       <workItem from="1677775705917" duration="2395000" />
-      <workItem from="1678988300461" duration="795000" />
+      <workItem from="1678988300461" duration="2678000" />
     </task>
     <servers />
   </component>
