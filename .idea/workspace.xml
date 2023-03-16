@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1da30db2-fd7d-4bb2-b8b7-515c2e0840da" name="Changes" comment="" />
+    <list default="true" id="1da30db2-fd7d-4bb2-b8b7-515c2e0840da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/water-mark.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/water-mark.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-midnight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/jekyll-theme-midnight.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/estherdow/blogs/devilaTheme/_static_content",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/estherdow/blogs/devilaTheme/_static_content&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_static_content" />
@@ -66,7 +70,16 @@
       <workItem from="1675433345532" duration="2348000" />
       <workItem from="1675710073380" duration="5315000" />
       <workItem from="1675754489821" duration="658000" />
-      <workItem from="1675864843709" duration="5646000" />
+      <workItem from="1675864843709" duration="6329000" />
+      <workItem from="1676365806991" duration="66000" />
+      <workItem from="1676378281174" duration="393000" />
+      <workItem from="1676381412768" duration="598000" />
+      <workItem from="1676827329151" duration="939000" />
+      <workItem from="1677228036148" duration="599000" />
+      <workItem from="1677571714792" duration="599000" />
+      <workItem from="1677744773151" duration="599000" />
+      <workItem from="1677775705917" duration="2395000" />
+      <workItem from="1678988300461" duration="795000" />
     </task>
     <servers />
   </component>
