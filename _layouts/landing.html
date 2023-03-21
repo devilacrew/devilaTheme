@@ -12,7 +12,7 @@
             {{ content }}
 
             <ul>
-                {% for post in site.dfyr8m %}
+                {% for post in site.{{collection_name}}%}
                 <li>
                     <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>
